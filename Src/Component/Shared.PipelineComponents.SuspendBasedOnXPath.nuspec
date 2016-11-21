@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Shared.PipelineComponents.SuspendBasedOnXPath</id>
+    <version>$version$</version>
+    <authors>Fernando Pires</authors>
+    <description>Shared.PipelineComponents.SuspendBasedOnXPath</description>
+  </metadata>
+  <files>
+    <file src="bin\Release\Shared.PipelineComponents.SuspendBasedOnXPath.dll" target="lib\net45\" />
+  </files>
+</package>
